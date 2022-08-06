@@ -10,7 +10,7 @@ Variables
   --clr-primary-2: hsl(185, 84%, 25%);
   --clr-primary-3: hsl(185, 81%, 29%);
   --clr-primary-4: hsl(184, 77%, 34%);
-  --clr-primary-5: #2caeba;
+  --clr-primary-5: #00afb9;
   /* lighter shades of primary color */
   --clr-primary-6: hsl(185, 57%, 50%);
   --clr-primary-7: hsl(184, 65%, 59%);
@@ -136,6 +136,9 @@ p {
 .loading {
   text-align: center;
 }
+h2{
+  color: white;
+}
 
 .underline {
   width: 5rem;
@@ -148,6 +151,7 @@ p {
 .title {
   margin-bottom: 4rem;
   text-align: center;
+  background: #00afb9;
 }
 
 /*
