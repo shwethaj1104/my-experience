@@ -2,7 +2,7 @@
 
 Application is built on React.js.
 
-Checkout available at https://my-experience.vercel.app/
+Checkout application at https://my-experience.vercel.app/
 
 Static data is fetched using external API.
 
