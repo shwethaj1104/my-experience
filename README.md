@@ -1,6 +1,6 @@
 # View Experience
 
-application is built on React.js.
+Application is built on React.js.
 
 Application available at https://my-experience.vercel.app/
 
