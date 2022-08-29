@@ -1,4 +1,4 @@
-# View Experience
+# Experience
 
 Application is built on React.js.
 
